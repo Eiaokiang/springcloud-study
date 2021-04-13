@@ -1,0 +1,23 @@
+server:
+  port: 9001
+
+spring:
+  application:
+    name: config9001
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Eiaokiang/springcloud-config.git
+          username: 1206290172@qq.com
+          password: xu1501389548/
+          force-pull: true
+          default-label: main   #选择分支
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8001/eureka/
+    register-with-eureka: true
+    fetch-registry: true
+
