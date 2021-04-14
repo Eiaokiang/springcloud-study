@@ -2,8 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70e5c40e-e567-4819-9d7f-7b3c398472fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config9001/config9001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config9001/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config9001/src/main/java/com/eiaokiang/ConfigServer9001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config9001/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config9001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config9001/target/classes/com/eiaokiang/ConfigServer9001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer8002/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer8002/src/main/java/com/eiaokiang/Consumer8002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer8002/src/main/java/com/eiaokiang/controller/ConsumerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer8002/src/main/java/com/eiaokiang/service/ProviderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer8002/src/main/resources/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer8002/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer8002/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer8002/target/classes/com/eiaokiang/Consumer8002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer8002/target/classes/com/eiaokiang/controller/ConsumerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer8002/target/classes/com/eiaokiang/service/ProviderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaServer8001/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaServer8001/src/main/java/com/eiaokiang/EurekaServer8001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaServer8001/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaServer8001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaServer8001/target/classes/com/eiaokiang/EurekaServer8001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway9527/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway9527/src/main/java/com/eiaokiang/Gateway9527.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway9527/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway9527/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway9527/target/classes/com/eiaokiang/Gateway9527.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8003/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8003/src/main/java/com/eiaokiang/Provider8003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8003/src/main/java/com/eiaokiang/controller/ProviderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8003/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8003/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8003/target/classes/com/eiaokiang/Provider8003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8003/target/classes/com/eiaokiang/controller/ProviderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8004/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8004/src/main/java/com/eiaokiang/Provider8004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8004/src/main/java/com/eiaokiang/controller/ProviderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8004/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8004/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8004/target/classes/com/eiaokiang/Provider8003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8004/target/classes/com/eiaokiang/Provider8004.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider8004/target/classes/com/eiaokiang/controller/ProviderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-study.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,17 +85,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/consumer8002/src/main/resources/application-dev.yml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/TdbTest.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -218,11 +269,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-28" />
-    <option name="y" value="6" />
-    <option name="width" value="1219" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="256" />
+    <option name="y" value="159" />
+    <option name="width" value="982" />
+    <option name="height" value="702" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -424,13 +475,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22307000" />
+    <option name="totallyTimeSpent" value="26992000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21801706" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21801706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -447,7 +497,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -493,6 +543,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -721,9 +785,12 @@
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/TdbTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
