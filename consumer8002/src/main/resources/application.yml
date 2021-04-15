@@ -9,7 +9,6 @@ spring:
       uri: https://github.com/Eiaokiang/springcloud-config.git
 
 
-
 eureka:
   client:
     service-url:
@@ -19,6 +18,7 @@ eureka:
 
 
 hello: localhello
+
 
 
 

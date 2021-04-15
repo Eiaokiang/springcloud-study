@@ -12,4 +12,10 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
 
-
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 5000
